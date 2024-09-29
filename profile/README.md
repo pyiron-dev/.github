@@ -1,5 +1,5 @@
 # pyiron Development Examples
-This Github organisation collects development examples of the [pyiron](https://github.com/pyiron) project. Please consider all repositories prototypes for demonstration pruposes. 
+This Github organisation collects development examples of the [pyiron](https://github.com/pyiron) project. Please consider all repositories prototypes for demonstration purposes. 
 
 # Topics
 ## Scientific Application
