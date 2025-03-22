@@ -3,6 +3,8 @@ This Github organisation collects development examples of the [pyiron](https://g
 
 # Topics
 ## Scientific Application
+* [pyiron-dev/executorlib-emcee](https://github.com/pyiron-dev/executorlib-emcee)
+* [pyiron-dev/sphinx-parser](https://github.com/pyiron-dev/sphinx-parser)
 * [pyiron-dev/NFDI4Ing_pyiron_base](https://github.com/pyiron-dev/NFDI4Ing_pyiron_base)
 * [pyiron-dev/pyiron-quantum-espresso](https://github.com/pyiron-dev/pyiron-quantum-espresso)
 * [pyiron-dev/smiles-to-ase](https://github.com/pyiron-dev/smiles-to-ase)
@@ -29,6 +31,7 @@ This Github organisation collects development examples of the [pyiron](https://g
 * [pyiron-dev/pyiron-nist-workshop](https://github.com/pyiron-dev/pyiron-nist-workshop)
 
 ## Workflows
+* [pyiron-dev/python-workflow-definition](https://github.com/pyiron-dev/python-workflow-definition)
 * [pyiron-dev/remote-executor](https://github.com/pyiron-dev/remote-executor)
 * [pyiron-dev/compare-workflow-graphs](https://github.com/pyiron-dev/compare-workflow-graphs)
 * [pyiron-dev/pyiron_base_graph](https://github.com/pyiron-dev/pyiron_base_graph)
@@ -48,10 +51,14 @@ This Github organisation collects development examples of the [pyiron](https://g
 * [pyiron-dev/pyiron-export-to-mybinder](https://github.com/pyiron-dev/pyiron-export-to-mybinder)
 
 ## Graphical User Interfaces 
+* [pyiron-dev/pyironflow-atomistics](https://github.com/pyiron-dev/pyironflow-atomistics)
+* [pyiron-dev/pyironflow-demo](https://github.com/pyiron-dev/pyironflow-demo)
 * [pyiron-dev/pyiron-vp4jl](https://github.com/pyiron-dev/pyiron-vp4jl)
 * [pyiron-dev/pyiron-gui-example](https://github.com/pyiron-dev/pyiron-gui-example)
 
 ## Debugging 
+* [pyiron-dev/pyiron-script-job-queue](https://github.com/pyiron-dev/pyiron-script-job-queue)
+* [pyiron-dev/scipy-validate-constants](https://github.com/pyiron-dev/scipy-validate-constants)
 * [pyiron-dev/debug-pyiron-integration-tests](https://github.com/pyiron-dev/debug-pyiron-integration-tests)
 * [pyiron-dev/test-lammps-mlip](https://github.com/pyiron-dev/test-lammps-mlip)
 * [pyiron-dev/pyiron-continuum-docker-test](https://github.com/pyiron-dev/pyiron-continuum-docker-test)
